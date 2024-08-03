@@ -5,7 +5,7 @@ This application allows you to add, edit, and delete book records while providin
 
 ## Fearutes
 
-- **This repository contains a responsive web application built with React.js**-
+- **This repository contains a responsive web application built with React.js**
 - **Add new books with details such as title, ISBN number, publication date, and author information.**
 - **Edit existing book records to update any information.**
 - **Remove books from the list**
@@ -22,7 +22,7 @@ This application allows you to add, edit, and delete book records while providin
 
 ## Connect with me
 
-**Mail:dineshvlr9500@gmail.com**
-**Linkdin:www.linkedin.com/in/dinesh-kumar-2565191b4**
+- **Mail:dineshvlr9500@gmail.com**
+- **Linkdin:www.linkedin.com/in/dinesh-kumar-2565191b4**
 
 
